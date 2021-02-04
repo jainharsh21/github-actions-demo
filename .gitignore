@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 
-# runner
+# self hosted runner
 /actions-runner
 
 # testing
